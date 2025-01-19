@@ -1,4 +1,3 @@
-# Zomato_Insights_Analyzer
 # Zomato Insights Analyzer
 
 ## Project Overview
