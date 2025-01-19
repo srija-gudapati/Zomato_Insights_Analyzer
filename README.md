@@ -49,11 +49,6 @@ You can directly run this project in Google Colab without any setup. To do so:
 3. **What price range do most customers prefer?**
 4. **Which restaurant has the most votes and the highest ratings?**
 
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
